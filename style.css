@@ -1,8 +1,8 @@
 /* CCS da NAV de todas as paginas */
 
 header {
-    padding: 20px 0;
-    background: url("fundo_main.jpg");
+    padding: 40px 0;
+    background: url(c7fab2b7a03fdbe45ee28357ade23b9c.jpg);
     border-bottom: 3px solid black;
 }
 
@@ -85,12 +85,12 @@ nav a:hover {
     display: inline-block;
     font-family: 'Roboto', sans-serif;
     width: 30%;
-    border: 2px solid #000000;
+    border: 2px solid #57a1a7;
     border-radius: 70px;
 }
 
 .Beneficios_lista:hover {
-    border-color: #ff0000;
+    border-color: #221c1c;
     color: #0080c0;
     font-weight: bolder;
 }
